@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002057142172",
+    "project_id": "chowkidar-234db",
+    "storage_bucket": "chowkidar-234db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002057142172:android:18a9adba92e5218d674259",
+        "android_client_info": {
+          "package_name": "com.chowkidarexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002057142172-amoceppte0q58onqej95d89tp4grjsjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY3qSTg4BR_xJnIqoJVKODaZhRnf401E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002057142172-amoceppte0q58onqej95d89tp4grjsjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
